@@ -1,4 +1,4 @@
-# Deloitee Data Analytics 
+# Deloitte Australia Data Analytics Job Simulation on Forage - February 2025
 
 This project was completed as part of the Deloitte Data Analytics Virtual Internship on [Forage](https://www.theforage.com/). It simulates a real-world data analytics task using Excel and business intelligence tools to help a fictional client.
 
