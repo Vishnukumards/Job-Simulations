@@ -1,35 +1,62 @@
-# 📊 Deloitte Australia Data Analytics Job Simulation – February 2025
+# 📊 KPMG AU Data Analytics Job Simulation – Forage (January 2023)
 
-This project is a completion of the Deloitte Forage Virtual Experience Program, where I participated in a job simulation focused on **data analytics and forensic technology**. The tasks were designed to mimic real-world problems faced by Deloitte’s consulting team and required strong analytical thinking, data visualization, and business interpretation.
-
----
-
-## ✅ Key Responsibilities
-
-- 🧮 **Classified and modeled raw business data** using Excel spreadsheets
-- 📊 **Built an interactive data dashboard in Tableau** for client reporting
-- 🧠 **Analyzed patterns and anomalies** in financial records to derive insights
-- 📈 Interpreted the results to create concise, business-relevant conclusions
+This project was completed as part of the **KPMG Data, Analytics & Modelling Virtual Experience Program** on Forage. The simulation involved supporting a KPMG client by analyzing customer data to help improve targeting of high-value customers.
 
 ---
 
-## 🔧 Tools & Skills Used
+## 🎯 Project Overview
 
-- **Excel** – Data cleaning, formula application, logical functions
-- **Tableau** – Dashboard creation, KPI visualizations, trend analysis
-- **Data Modeling** – Identifying patterns and drawing structured conclusions
-- **Data Analysis** – Interpreting numerical trends to generate actionable insights
-
----
-
-## 📌 Key Outcomes
-
-- Developed strong problem-solving and storytelling skills using real-world data
-- Gained experience interpreting forensic data for business reporting
-- Improved ability to work with large datasets in both **Excel and Tableau**
-- Delivered findings in a business-first narrative tailored for stakeholders
+As a Data Analyst in KPMG’s Data, Analytics & Modelling team, the objective was to:
+- Assess the quality of the client’s customer data
+- Identify key customer segments
+- Deliver actionable insights through dashboards and presentations
+- Provide strategic recommendations for customer targeting
 
 ---
 
-## 🗂️ Project Structure
+## 🔍 Key Tasks
 
+1. **Data Quality Assessment**
+   - Reviewed completeness and consistency of customer data
+   - Highlighted data integrity issues and missing value patterns
+
+2. **Customer Segmentation & Analytics**
+   - Identified high-value customer groups based on spending, frequency, and demographics
+   - Created segment profiles using behavioral and transactional patterns
+
+3. **Dashboard Development**
+   - Designed and built interactive dashboards to present KPIs and trends
+   - Communicated insights clearly for business stakeholders
+
+4. **Executive Presentation**
+   - Delivered a structured data-driven report and visuals
+   - Proposed data-backed strategies to refine customer targeting
+
+---
+
+## 💡 Insights Delivered
+
+- High-spending customers often showed specific demographic traits and behaviors
+- Targeting these segments could increase ROI on marketing spend
+- Identified key data gaps that, if resolved, could improve customer understanding
+
+---
+
+## 🧠 Skills Applied
+
+- ✅ Customer Segmentation
+- ✅ Data Quality Analysis
+- ✅ Data Visualization & Dashboards
+- ✅ Analytical Thinking
+- ✅ Data Storytelling
+- ✅ Strategic Communication
+
+---
+
+## 🛠 Tools Used
+
+- **Excel** – data cleaning, segmentation, and pivot analysis
+- **Power BI / Tableau** – dashboard design and visual storytelling
+- **Presentation Tools** – summary slides with insights and recommendations
+
+---
